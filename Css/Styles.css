@@ -1,0 +1,127 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: lightgrey;
+    height: auto;
+    min-width: 578px;
+    display:inline;
+}
+
+
+.navbar {
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    color: white;
+    font-size:small;
+}
+.col{
+   text-align: start;
+}
+
+
+.col a{
+    font-size: medium;
+    margin-left: 5px;
+    text-decoration: none;
+    text-decoration-line: none;
+    color: white;
+}
+.col a:hover{
+    color: burlywood;
+    text-decoration: none;
+}
+.Jumbotron{
+    
+    border-bottom-style: solid;
+    border-bottom-color: darkgray;
+    border-bottom-width: 1px;
+    padding: auto;
+    height: 200px;
+    width: 100%;
+    background-color: lightgrey;
+    text-align: center;
+}
+.Reklam {
+    text-align:center;
+    position: fixed;
+    right: 0;
+    left: 0;
+     padding: 15px 30px 15px;    
+} 
+
+.Submenu{
+    margin-top: 4px;
+    text-align: center;
+}
+
+.col-sm ul {
+    padding: 10px 15px 10px;
+}
+
+#HakkımızdaBtn{
+    margin-right: 25px;
+    margin-top: 5px;
+    text-align: center;
+}
+.btn a{
+ color:blue;
+}
+
+
+
+.btn a:hover{
+    color: burlywood;
+   text-decoration-line: none;
+}
+
+
+.row {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+
+
+}
+.col-3{
+    background-color: white;
+    padding: 0px;
+    margin: 5px;
+    height: 550px;
+    border: 1px solid;
+}
+
+.ImgSetting{
+    height: 75%;
+    width: 100%;
+}
+
+.Comment{
+    color:purple;
+    margin: 10px 20px 10px;
+}
+
+
+.Price{
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: green;
+    
+    text-align: center;
+    margin: 10px 20px 10px;
+}
+
+.AnaBaslık{
+    margin-top: 10px;
+    text-align: center;
+    color: red;
+    height: 350px;
+    width: 100%;
+}
+
+.Vizyon , .Misyon {
+    padding: 130px;
+    color: black;
+    text-align: center;
+}
